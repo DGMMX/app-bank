@@ -1,5 +1,5 @@
 # Stick Of Commerce
-Um projeto dado pela FIAP uma refentene a mateira de Java para ser feito uma api de loja medieval 
+Um projeto dado pela FIAP uma referente a mateira de MOBILE APPLICATION DEVELOPMENT para ser feito uma app de banco
 
 ## Feito Por:
 Diego Bassalo Canals Silva 
